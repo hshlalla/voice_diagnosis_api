@@ -1,3 +1,8 @@
+'''
+Created on 2022. 2. 25.
+
+@author: khs
+'''
 import json, os, base64
 import logging.config
 
